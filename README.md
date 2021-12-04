@@ -6,11 +6,6 @@
 src="https://komarev.com/ghpvc/?username=patrick260&label=Profile%20views&color=0e75b6&style=flat"
  alt="patrick260" /> </p>
 
-<p align="left"> <a 
-href="https://github.com/ryo-ma/github-profile-trophy"><img 
-src="https://github-profile-trophy.vercel.app/?username=patrick260" 
-alt="patrick260" /></a> </p>
-
 - 🔭 I’m currently working on [Advent of Code](https://github.com/Patrick260/AdventOfCode)
 
 - 🌱 I’m currently learning **Web Dev**
