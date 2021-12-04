@@ -18,6 +18,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick260&show_icons=true&theme=dark&locale=en&layout=compact" alt="patrick260"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick260&show_icons=true&theme=dark&locale=en" alt="patrick260"/></p>
+<p><img align="rigth" src="https://github-readme-stats.vercel.app/api?username=patrick260&show_icons=true&theme=dark&locale=en" alt="patrick260"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrick260&theme=dark" alt="patrick260" /></p>
+<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=patrick260&theme=dark" alt="patrick260" /></p>
