@@ -6,7 +6,7 @@
 src="https://komarev.com/ghpvc/?username=patrick260&label=Profile%20views&color=0e75b6&style=flat"
  alt="patrick260" /> </p>
 
-- 🔭 I’m currently working on **nothing**.
+- 🔭 I’m currently working on **some java based games**.
 
 - 🌱 I’m currently learning **Web Dev**.
 
