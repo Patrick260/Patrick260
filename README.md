@@ -8,7 +8,7 @@ src="https://komarev.com/ghpvc/?username=patrick260&label=Profile%20views&color=
 
 - 🔭 I’m currently working on **some Android apps**.
 
-- 🌱 I’m currently learning **programming Android apps** and **maven**.
+- 🌱 I’m currently learning **programming Android apps**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Patrick260](https://github.com/Patrick260).
 
