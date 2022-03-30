@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick260</h1>
 <h3 align="center">A passionate software developer from germany.</h3>
 
-<p
- align="left"> <img 
-src="https://komarev.com/ghpvc/?username=patrick260&label=Profile%20views&color=0e75b6&style=flat"
- alt="patrick260" /> </p>
-
 - 🔭 I’m currently working on **some small projects**.
 
 - 🌱 I’m currently learning **Python**.
