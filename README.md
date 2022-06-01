@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick260</h1>
 <h3 align="center">A passionate software developer from germany.</h3>
 
-- 🔭 I’m currently working on **some spigot plugins**.
+- 🔭 I’m currently working on **some Spigot plugins**.
 
 - 🌱 I’m currently learning **Python**.
 
