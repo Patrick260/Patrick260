@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some Spigot plugins**.
 
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **Python and Unity**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Patrick260](https://github.com/Patrick260).
 
