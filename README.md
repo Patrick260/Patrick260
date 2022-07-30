@@ -45,6 +45,12 @@
     <a href="https://en.wikipedia.org/wiki/GitLab">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50"/>
     </a>
+    <a href="https://en.wikipedia.org/wiki/Apache_Maven">
+      <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Gradle">
+      <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/gradle_icon_130917.png" alt="Gradle" height="50"/>
+    </a>
     <a href="https://en.wikipedia.org/wiki/Unity_(game_engine)">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50"/>
     </a>
@@ -56,12 +62,6 @@
     </a>
     <a href="https://en.wikipedia.org/wiki/Raspberry_Pi">
       <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Apache_Maven">
-      <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" height="50"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Gradle">
-      <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/gradle_icon_130917.png" alt="Gradle" height="50"/>
     </a>
   </div>
 
