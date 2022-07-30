@@ -47,13 +47,12 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/patrickster260) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Patrick260&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Patrick260&theme=gruvbox&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick260&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Patrick260&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick260&theme=gruvbox&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick260&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Patrick260&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Patrick260&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4"/>
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
