@@ -1,6 +1,3 @@
-<head>
-  <link rel="me" href="https://mastodon.social/@@Patrick260"/>
-</head>
 <h1 align="center">Hi, I'm Patrick260! 👋</h1>
 
 ### <div align="center">A passionate software developer from Germany 👨‍💻</div>  
@@ -74,6 +71,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/patrickster260)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/patrickster260)
 [![Mastodon](https://img.shields.io/mastodon/follow/108352762411782497?color=blue&domain=https%3A%2F%2Fmastodon.social%2F&label=Mastodon&style=social)](https://mastodon.social/web/@Patrick260)
+<a rel="me" href="https://mastodon.social/@Patrick260">Mastodon</a>
 
 ## 🖥 Other accounts
 <div>
