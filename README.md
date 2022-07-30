@@ -20,9 +20,12 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=patrick260&show_icons=true&theme=dark&locale=en" alt="patrick260"/>
+</p>
+
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick260&theme=dark" alt="patrick260" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick260&show_icons=true&theme=dark&locale=en&layout=compact" alt="patrick260"/>
 </p>
