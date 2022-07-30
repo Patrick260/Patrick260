@@ -1,31 +1,59 @@
-<h1 align="center">Hi 👋, I'm Patrick260</h1>
-<h3 align="center">A passionate software developer from Germany.</h3>
+<h1 align="center">Hi, I'm Patrick260! 👋</h1>
 
-- 🔭 I’m currently working on **nothing**.
+### <div align="center">A passionate software developer 👨‍💻</div>  
+  
 
-- 🌱 I’m currently learning **Python and Unity**.
+- 🔭 I’m currently working on nothing  
+  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Patrick260](https://github.com/Patrick260).
+- 🌱 I’m currently learning Python and Unity  
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-</p>
+- 👯 I’m looking to collaborate on [Arch Linux](https://archlinux.org/)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=patrick260&show_icons=true&theme=dark&locale=en" alt="patrick260"/>
-</p>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick260&theme=dark" alt="patrick260" />
-</p>
+  ### Languages
+  <div align="center">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
+  </div>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick260&show_icons=true&theme=dark&locale=en&layout=compact" alt="patrick260"/>
-</p>
+</td><td valign="top" width="33%">
+
+   ### Frameworks
+  <div align="center">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50"/>
+  </div>
+
+</td><td valign="top" width="33%">
+
+  ### Other
+  <div align="center">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50"/>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50"/>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50"/>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50"/>
+  </div>
+
+</td></tr></table>
+
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/patrickster260)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/patrickster260) 
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Patrick260&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Patrick260&theme=gruvbox&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick260&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Patrick260&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
