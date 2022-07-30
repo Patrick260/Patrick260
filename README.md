@@ -2,12 +2,12 @@
 
 ### <div align="center">A passionate software developer from Germany 👨‍💻</div>  
   
-## 💫 About Me:
+## 💫 About me:
 - 🔭 I’m currently working on **nothing**
 - 🌱 I’m currently learning **Python** and **Unity**
 - 👯 I’m looking to collaborate on [**Arch Linux**](https://archlinux.org/)
 
-## 🛠 My Skill Set  
+## 🛠 My skill set  
 <table><tr><td valign="top" width="33%">
 
   ### Languages
@@ -67,12 +67,12 @@
 
 </td></tr></table>
 
-## 🌐 Social Media:
+## 🌐 Social media:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/patrickster260)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/patrickster260)
 [![Mastodon](https://img.shields.io/mastodon/follow/108352762411782497?color=blue&domain=https%3A%2F%2Fmastodon.social%2F&label=Mastodon&style=social)](https://mastodon.social/web/@Patrick260)
 
-## 🖥 Other Accounts
+## 🖥 Other accounts
 <div>
   <a href="https://www.spigotmc.org/members/patrick260.1301028/">
     <img style="margin: 10px" src="https://static.spigotmc.org/img/spigot.png" alt="SpigotMC" height="50"/>
@@ -93,13 +93,13 @@
 - Email: Patrick260@protonmail.com
 - Discord: Patrick260#7030
 
-## 📊 GitHub Stats:
+## 📊 GitHub stats:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Patrick260&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick260&theme=gruvbox&hide_border=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick260&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub trophies
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=Patrick260&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4"/>
 
-## ✍️ Random Dev Quote
+## ✍️ Random dev quote
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
