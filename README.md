@@ -1,4 +1,6 @@
-<link rel="me" href="https://mastodon.social/@@Patrick260"/>
+<head>
+  <link rel="me" href="https://mastodon.social/@@Patrick260"/>
+</head>
 <h1 align="center">Hi, I'm Patrick260! 👋</h1>
 
 ### <div align="center">A passionate software developer from Germany 👨‍💻</div>  
