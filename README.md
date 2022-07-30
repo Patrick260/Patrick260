@@ -2,14 +2,10 @@
 
 ### <div align="center">A passionate software developer 👨‍💻</div>  
   
-
-- 🔭 I’m currently working on nothing  
-  
-
-- 🌱 I’m currently learning Python and Unity  
-  
-
-- 👯 I’m looking to collaborate on [Arch Linux](https://archlinux.org/)
+## 💫 About Me:
+- 🔭 I’m currently working on **nothing**
+- 🌱 I’m currently learning **Python** and **Unity**
+- 👯 I’m looking to collaborate on [**Arch Linux**](https://archlinux.org/)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -19,6 +15,7 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/>
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/>
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" alt="Groovy" height="50"/>
   </div>
 
 </td><td valign="top" width="33%">
@@ -38,6 +35,8 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/>
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50"/>
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50"/>
+    <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" height="50"/>
+    <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/gradle_icon_130917.png" alt="Gradle" height="50"/>
   </div>
 
 </td></tr></table>
