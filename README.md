@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Python** and **Unity**
 - 👯 I’m looking to collaborate on [**Arch Linux**](https://archlinux.org/)
 
-## My Skill Set  
+## 🛠 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
   ### Languages
