@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Patrick260! 👋</h1>
 
-### <div align="center">A passionate software developer 👨‍💻</div>  
+### <div align="center">A passionate software developer from Germany 👨‍💻</div>  
   
 ## 💫 About Me:
 - 🔭 I’m currently working on **nothing**
