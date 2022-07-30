@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick260</h1>
 <h3 align="center">A passionate software developer from Germany.</h3>
 
-- 🔭 I’m currently working on **some Spigot plugins**.
+- 🔭 I’m currently working on **nothing**.
 
 - 🌱 I’m currently learning **Python and Unity**.
 
@@ -19,9 +19,10 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick260&show_icons=true&theme=dark&locale=en" alt="patrick260"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrick260&theme=dark" alt="patrick260" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patrick260&show_icons=true&theme=dark&locale=en" alt="patrick260"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patrick260&theme=dark" alt="patrick260" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick260&show_icons=true&theme=dark&locale=en&layout=compact" alt="patrick260"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrick260&show_icons=true&theme=dark&locale=en&layout=compact" alt="patrick260"/>
 </p>
