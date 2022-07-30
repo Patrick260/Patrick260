@@ -67,10 +67,27 @@
 
 </td></tr></table>
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/mastodon/follow/108352762411782497?color=blue&domain=https%3A%2F%2Fmastodon.social%2F&label=Mastodon&style=social)](https://mastodon.social/web/@Patrick260)
+## 🌐 Social Media:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/patrickster260)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/patrickster260)
+[![Mastodon](https://img.shields.io/mastodon/follow/108352762411782497?color=blue&domain=https%3A%2F%2Fmastodon.social%2F&label=Mastodon&style=social)](https://mastodon.social/web/@Patrick260)
+
+## 🖥 Other Accounts
+<div>
+  <a href="https://www.spigotmc.org/members/patrick260.1301028/">
+    <img style="margin: 10px" src="https://static.spigotmc.org/img/spigot.png" alt="SpigotMC" height="50"/>
+  </a>
+  <a href="https://patrick260.itch.io/">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Itch.io_logo.svg/320px-Itch.io_logo.svg.png" alt="itch.io" height="50"/>
+  </a>
+  </br>
+  <a href="https://pypi.org/user/Patrick260/">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" alt="PyPI" height="50"/>
+  </a>
+  <a href="https://www.codingame.com/profile/1c360945657e2179c42a767c0d4f64554789354">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/CodinGame_logo.svg/320px-CodinGame_logo.svg.png" alt="CodinGame" height="50"/>
+  </a>
+</div>
 
 ## 📨 Contact me
 - Email: Patrick260@protonmail.com
