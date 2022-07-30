@@ -12,31 +12,57 @@
 
   ### Languages
   <div align="center">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" alt="Groovy" height="50"/>
+    <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Apache_Groovy">
+      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" alt="Groovy" height="50"/>
+    </a>
   </div>
 
 </td><td valign="top" width="33%">
 
    ### Frameworks
   <div align="center">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50"/>
+    <a href="https://en.wikipedia.org/wiki/.net">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50"/>
+    </a>
   </div>
 
 </td><td valign="top" width="33%">
 
   ### Other
   <div align="center">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50"/>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50"/>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50"/>
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50"/>
-    <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" height="50"/>
-    <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/gradle_icon_130917.png" alt="Gradle" height="50"/>
+    <a href="https://en.wikipedia.org/wiki/Git">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/GitLab">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Unity_(game_engine)">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Linux">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Android_(operating_system)">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Raspberry_Pi">
+      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Apache_Maven">
+      <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="Maven" height="50"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Gradle">
+      <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/gradle_icon_130917.png" alt="Gradle" height="50"/>
+    </a>
   </div>
 
 </td></tr></table>
